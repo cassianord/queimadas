@@ -1,5 +1,5 @@
 # queimadas
-Rotinas para analisar a série de queimadas no Brasil e na Amazônia
+Rotinas para analisar a série de queimadas no Brasil e na Amazônia, de junho de 1998 a agosto de 2019.
 
 Os dados utilizados estão disponibilizados em .csv.
 
